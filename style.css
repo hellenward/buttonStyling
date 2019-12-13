@@ -1,5 +1,6 @@
 button {
-  display: inline-block;
+  display: block;
+  margin: 20px;
 }
 
 .button1 {
@@ -11,4 +12,15 @@ button {
   text-align: center;
   text-decoration: none;
   border-radius: 10px;
+}
+
+.button2 {
+  background-color: #233142;
+  font-size: 18px;
+  padding: 10px 50px;
+  color: white;
+  letter-spacing: 2px;
+  border-radius: 4px;
+  font-family: "Open Sans";
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.2);
 }
