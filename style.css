@@ -24,3 +24,14 @@ button {
   font-family: "Open Sans";
   box-shadow: 0 5px 0 rgba(0, 0, 0, 0.2);
 }
+
+.button3 {
+  border: 2px solid black;
+  font-size: 16px;
+  padding: 10px 50px;
+  background-color: transparent;
+  border-radius: 4px;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
