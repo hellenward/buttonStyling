@@ -69,3 +69,14 @@ button {
 .button5:hover {
   transform: translateX(100px);
 }
+
+.button6 {
+  background-color: peachpuff;
+  font-size: 20px;
+  padding: 10px 40px;
+  transition: transform 1s;
+}
+
+.button6:hover {
+  transform: rotate(1080deg);
+}
